@@ -22,6 +22,12 @@
 
 ### ngAfterContentChecked 
 -  Este método de gancho de ciclo de vida é executado sempre que o conteudo do componente é verificado pelo o mecanismo de detecção de alteração do Angular
+
+### ngOnDestroy
+- Chamado antes do Angular destruir o componente
+
+### Data Binding
+- É uma forma de exibir dados em seu component HTML, nada mais do que trabalhar com dados
 -  invocado após a verificação do conteúdo externo
 
 ### ngAfterViewInit
