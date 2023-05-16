@@ -35,3 +35,6 @@
 
 ### ngAfterViewChecked
 - chamado cada vez que o conteúdo do componente é verificado pelo mecanismo de detecção de alterações do Angular
+
+### Interpolation 
+- Caracterizado por duas chaves
