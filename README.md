@@ -41,3 +41,6 @@
 
 ### Property Binding
 - Forma de associar propriedades entre o template (arquivo html) e o component (arquivo typescript)
+
+### Event Binding
+- Associação de eventos
