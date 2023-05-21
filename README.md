@@ -38,3 +38,6 @@
 
 ### Interpolation 
 - Caracterizado por duas chaves
+
+### Property Binding
+- Forma de associar propriedades entre o template (arquivo html) e o component (arquivo typescript)
