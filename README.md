@@ -44,3 +44,7 @@
 
 ### Event Binding
 - Associação de eventos
+
+### As diretivas são classes que adicionam comportamento adicional aos elementos em seus aplicativos Angular. Com diretivas integradas do Angular, você pode gerenciar formmulários, listas, estilos eo que os usuários veem.
+- Diretivas de atributo: Que alteram a aparência ou comportamento de um elemento, componente ou outra diretiva. Como por exemplo: NgClass, NgStyle e NgModel.
+- Diretivas estruturais: Eles moldam ou remodelam a estrutura do DOM, adicionando, removendo e manupulando os elementos do host aos quais estão anexados. Como por exemplo: NgIf, NgFor, NgSwitch
