@@ -59,3 +59,4 @@
 - Pipe nos ajuda a transformar dados que estão em um formato para outro. Eles são chamados assim pois usa o “|” para chamá-lo
   
 ### Module Angular
+- Um module é um mecanismo para agrupar componentes, diretivas, pipes e serviços relacionados, de forma a combinar com outros modulos para criar um aplicativo. O Angular fornece uma boa maneira de organizar esses blocos de forma simples e eficaz usando módulos(também conhecidos com ngModules)
