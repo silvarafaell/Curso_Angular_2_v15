@@ -51,3 +51,4 @@
 - O ngIf é uma condicional para adicionar ou remover algo do DOM. É muito parecido com o If padrão. Usamos o elemento que queremos adicionar como atributo para o “ngIf” e não devemos esquecer do “*”. Podemos usar expressão que possa retornar “true” ou “false”
 - A diretiva ngFor é utilizada para repetir um elemento do Template.
 - A diretiva ngSwitch é uma diretiva que exibe um elemento de um possível conjunto de elementos com base em alguma condição. Ela usa as diretivas ngSwitchCase e ngSwitchDefault.
+- O ngClass é uma diretiva que permite definir uma classe dinâmicamente a partir do DOM de um elemento.
