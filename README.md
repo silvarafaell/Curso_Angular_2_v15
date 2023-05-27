@@ -52,3 +52,4 @@
 - A diretiva ngFor é utilizada para repetir um elemento do Template.
 - A diretiva ngSwitch é uma diretiva que exibe um elemento de um possível conjunto de elementos com base em alguma condição. Ela usa as diretivas ngSwitchCase e ngSwitchDefault.
 - O ngClass é uma diretiva que permite definir uma classe dinâmicamente a partir do DOM de um elemento.
+- A diretiva NgStyle é uma diretiva de atributo usada para alterar o estilo de qualquer elemento do DOM com base em alguma condição
