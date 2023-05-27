@@ -49,3 +49,4 @@
 - Diretivas de atributo: Que alteram a aparência ou comportamento de um elemento, componente ou outra diretiva. Como por exemplo: NgClass, NgStyle e NgModel.
 - Diretivas estruturais: Eles moldam ou remodelam a estrutura do DOM, adicionando, removendo e manupulando os elementos do host aos quais estão anexados. Como por exemplo: NgIf, NgFor, NgSwitch
 - O ngIf é uma condicional para adicionar ou remover algo do DOM. É muito parecido com o If padrão. Usamos o elemento que queremos adicionar como atributo para o “ngIf” e não devemos esquecer do “*”. Podemos usar expressão que possa retornar “true” ou “false”
+- A diretiva ngFor é utilizada para repetir um elemento do Template.
