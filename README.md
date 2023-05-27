@@ -57,3 +57,5 @@
 - O ng-template é um elemento de template (em português, modelo) que o Angular usa com as diretivas estruturais ( *ngIf , *ngFor , [ngSwitch] e as diretivas personalizadas). Esses elementos de modelo, ou template, funcionam apenas na presença de diretivas estruturais.
 - O <ng-content> é usado para criar componentes configuráveis. Isso significa que os componentes podem ser configurados, dependendo das necessidades do usuário. Essa situação é bem conhecida como projeção de conteúdo
 - Pipe nos ajuda a transformar dados que estão em um formato para outro. Eles são chamados assim pois usa o “|” para chamá-lo
+  
+### Module Angular
