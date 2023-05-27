@@ -54,3 +54,4 @@
 - O ngClass é uma diretiva que permite definir uma classe dinâmicamente a partir do DOM de um elemento.
 - A diretiva NgStyle é uma diretiva de atributo usada para alterar o estilo de qualquer elemento do DOM com base em alguma condição
 - O ngModel lida com os dois fluxos: ele dispara eventos para atualizar a sua variável no componente, e se a variável for atualizada ele recebe esse valor também
+- O ng-template é um elemento de template (em português, modelo) que o Angular usa com as diretivas estruturais ( *ngIf , *ngFor , [ngSwitch] e as diretivas personalizadas). Esses elementos de modelo, ou template, funcionam apenas na presença de diretivas estruturais.
