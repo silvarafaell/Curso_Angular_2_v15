@@ -62,3 +62,5 @@
 - Um module é um mecanismo para agrupar componentes, diretivas, pipes e serviços relacionados, de forma a combinar com outros modulos para criar um aplicativo. O Angular fornece uma boa maneira de organizar esses blocos de forma simples e eficaz usando módulos(também conhecidos com ngModules)
   
 ### Comunicação entre Componentes
+- @Input() é entrada de dados no componente.
+- @Output() é saida de dados no componente.
