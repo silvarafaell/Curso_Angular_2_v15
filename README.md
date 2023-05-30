@@ -66,4 +66,11 @@
 - @Output() é saida de dados no componente.
   
 ### Projeto Pratico 1
-- Nessa ferramenta o usuário poderá adicionar tareefas diárias, podendo marcar que completo ou ate mesmo deletar a tarefeas selecionadas.  
+- Nessa ferramenta o usuário poderá adicionar tareefas diárias, podendo marcar que completo ou ate mesmo deletar a tarefeas selecionadas.
+- ng new app-todo
+- ng g m /modules/home
+- ng g c /modules/home/components/header
+- ng g c /modules/home/components/todoButtonDeleteAll
+- ng g c /modules/home/components/todoInputAddItens
+- ng g c /modules/home/components/todoList
+- ng g c /modules/home/pages/home
