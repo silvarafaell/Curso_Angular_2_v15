@@ -64,3 +64,6 @@
 ### Comunicação entre Componentes
 - @Input() é entrada de dados no componente.
 - @Output() é saida de dados no componente.
+  
+### Projeto Pratico 1
+- Nessa ferramenta o usuário poderá adicionar tareefas diárias, podendo marcar que completo ou ate mesmo deletar a tarefeas selecionadas.  
