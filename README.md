@@ -74,3 +74,4 @@
 - ng g c /modules/home/components/todoInputAddItens
 - ng g c /modules/home/components/todoList
 - ng g c /modules/home/pages/home
+- ng g interface /modules/home/model/TaskList
