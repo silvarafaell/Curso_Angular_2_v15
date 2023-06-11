@@ -75,3 +75,9 @@
 - ng g c /modules/home/components/todoList
 - ng g c /modules/home/pages/home
 - ng g interface /modules/home/model/TaskList
+  
+ ### Angular - Serviços, http e Observable
+- ng g s /services/foodList - Criando service
+- ng g c /shared/food-add
+- Comunicação de componentes com Service
+- Subscribe 
