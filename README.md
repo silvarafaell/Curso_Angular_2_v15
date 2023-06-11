@@ -81,3 +81,6 @@
 - ng g c /shared/food-add
 - Comunicação de componentes com Service
 - Subscribe 
+
+### Forms
+- ng g c forms
