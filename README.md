@@ -84,3 +84,6 @@
 
 ### Forms
 - ng g c forms
+
+### Rotas
+- ng g c /shared/menu
