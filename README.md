@@ -87,3 +87,6 @@
 
 ### Rotas
 - ng g c /shared/menu
+
+### Projeto Pratico 2
+- ng new pokedex
