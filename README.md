@@ -90,3 +90,6 @@
 
 ### Projeto Pratico 2
 - ng new pokedex
+- ng g m pages
+- ng g c ./pages/home
+- ng g c --module pages ./pages/details
