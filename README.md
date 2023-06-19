@@ -93,3 +93,7 @@
 - ng g m pages
 - ng g c ./pages/home
 - ng g c --module pages ./pages/details
+- ng g m shared
+- ng g c shared/poke-header
+- ng g c shared/poke-search
+- ng g c shared/poke-list
